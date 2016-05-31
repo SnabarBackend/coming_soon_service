@@ -16,6 +16,7 @@ src/golang.org
 src/gopkg.in
 bin/
 pkg/
+src/main/vendor
 *.cgo1.go
 *.cgo2.c
 _cgo_defun.c
